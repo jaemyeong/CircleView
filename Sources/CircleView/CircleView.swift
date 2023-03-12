@@ -1,3 +1,5 @@
+#if canImport(UIKit)
+
 import UIKit
 import ErrorKit
 
@@ -57,3 +59,5 @@ extension CircleView {
         self.clipsToBounds = true
     }
 }
+
+#endif
