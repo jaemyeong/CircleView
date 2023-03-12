@@ -14,7 +14,7 @@ CircleView 입니다.
 ### Swift Package Manager
 
 ```bash
-.package(url: "https://github.com/jaemyeong/CircleView.git", .upToNextMajor(from: "0.1.0"))
+.package(url: "https://github.com/jaemyeong/CircleView.git", .upToNextMajor(from: "0.1.1"))
 ```
 
 ## Usage
